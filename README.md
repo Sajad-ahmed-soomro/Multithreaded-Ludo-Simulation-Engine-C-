@@ -5,6 +5,7 @@ A concurrent board game simulation developed in C++ that models a complete multi
 The project simulates independent player behavior through parallel execution while ensuring correct game-state transitions using mutexes, semaphores, conditional variables, and thread coordination. The system implements complex game rules, collision detection, event handling, player elimination, and winner determination in a synchronized environment.
 
 ---
+<img width="588" height="636" alt="Screenshot 2026-06-07 at 6 08 54 PM" src="https://github.com/user-attachments/assets/f030727c-c6f2-4cad-bd00-afd7513fb425" />
 
 ## Key Features
 
